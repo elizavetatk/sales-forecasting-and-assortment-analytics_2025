@@ -97,6 +97,3 @@
 ## Технологии
 
 Python, pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels, pmdarima, Prophet, XGBoost, openpyxl.
-
-
-## Структура репозитория
